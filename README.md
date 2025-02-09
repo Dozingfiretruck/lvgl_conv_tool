@@ -4,6 +4,10 @@
 
 # lvgl_conv_tool
 
+github: [Dozingfiretruck/lvgl_conv_tool: LVGL converter tool](https://github.com/Dozingfiretruck/lvgl_conv_tool)
+
+gitee: [lvgl_conv_tool: lvgl 转换工具](https://gitee.com/Dozingfiretruck/lvgl_conv_tool)
+
 ![tool](./docs/tool.png)
 
 #### Description
