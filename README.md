@@ -12,7 +12,7 @@ gitee: [lvgl_conv_tool: lvgl 转换工具](https://gitee.com/Dozingfiretruck/lvg
 
 #### Description
 
-​	LVGL conversion tool, support font conversion, and support image conversion in the future
+​	LVGL conversion tool, support font conversion, image conversion
 
 #### Software Architecture
 ​	The tool is written in pyside6 (QT for python).

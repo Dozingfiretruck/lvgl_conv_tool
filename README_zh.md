@@ -12,7 +12,7 @@ gitee: [lvgl_conv_tool: lvgl 转换工具](https://gitee.com/Dozingfiretruck/lvg
 
 #### 介绍
 
-​	lvgl 转换工具，支持字体转换，未来支持图片转换
+​	lvgl 转换工具，支持字体转换，图片转换
 
 #### 软件架构
 ​	工具使用pyside6(QT for python)编写
